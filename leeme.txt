@@ -3,4 +3,5 @@ equipo
 Maestro 2
 y esto
 La ultima linea
+Cambio realizado en el clone.. 
 umm,, cambiamos la url a ssh
