@@ -3,3 +3,4 @@ equipo
 Maestro 2
 y esto
 La ultima linea
+umm,, cambiamos la url a ssh
